@@ -50,10 +50,9 @@ To enter the chat, select a unique name and choose a room number or name.
 
 For two or more users to communicate, they must be in the same room. If they are in different rooms, communication will not be possible.
 
-Enjoy real-time communication with the Live Chat Socket.io Project! Feel free to open multiple chat sessions and experiment with different rooms and user names to experience the full functionality of the application.
+App Screenshots
 
-Happy chatting! 🗨️🚀
-
+Take a closer look at our app's key features and user interface through the following screenshots. These images provide a visual overview of the app's functionality and design, showcasing the user experience you can expect.
 
 Screenshot 1: User Registration
 
@@ -68,7 +67,8 @@ Screenshot 2: Chat Interface
 
 ![image](https://github.com/Rallfy/Live-Chat-Socket.io-Project/assets/44873170/2a63ef20-7200-418a-a6f1-50ca48421829)
 
-
 Here's a glimpse of the chat interface in action. Users can join chat rooms and start conversations in real-time.
 
+Enjoy real-time communication with the Live Chat Socket.io Project! Feel free to open multiple chat sessions and experiment with different rooms and user names to experience the full functionality of the application.
 
+Happy chatting! 🗨️🚀
