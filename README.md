@@ -53,3 +53,22 @@ For two or more users to communicate, they must be in the same room. If they are
 Enjoy real-time communication with the Live Chat Socket.io Project! Feel free to open multiple chat sessions and experiment with different rooms and user names to experience the full functionality of the application.
 
 Happy chatting! 🗨️🚀
+
+
+Screenshot 1: User Registration
+
+![image](https://github.com/Rallfy/Live-Chat-Socket.io-Project/assets/44873170/dcd3fad7-34d3-45ee-90ed-a23f6a570f40)
+
+
+In this screenshot, you can see the user registration screen, where users can sign up for an account.
+
+Screenshot 2: Chat Interface
+
+![image](https://github.com/Rallfy/Live-Chat-Socket.io-Project/assets/44873170/0e5e04cd-1e4b-46b8-a3e7-655104e26c60)
+
+![image](https://github.com/Rallfy/Live-Chat-Socket.io-Project/assets/44873170/2a63ef20-7200-418a-a6f1-50ca48421829)
+
+
+Here's a glimpse of the chat interface in action. Users can join chat rooms and start conversations in real-time.
+
+
